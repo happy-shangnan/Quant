@@ -1,6 +1,3 @@
-Sure! Here is a polished version of your README:
-
----
 
 # Quant Trading Helper Scripts
 
